@@ -1,3 +1,3 @@
 # HelloWorld
-
+This is the student version of this readme...
 This is a new repository so I can learn this thang.  Get going!
